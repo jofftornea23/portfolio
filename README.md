@@ -1,5 +1,5 @@
-# portfolio
-Work Portfolio project
+# Work Portfolio
+A Work Portfolio project
 
 ## Getting Started
 This project is purely a showcase of work experiences. Feel free to fix the design object you think uneccessary.
